@@ -1,2 +1,2 @@
-** Implementation of NeRF-MPPI **
-===================================
+** NeRF-MPPI Trajectory Optimization Framework**
+====================================================
