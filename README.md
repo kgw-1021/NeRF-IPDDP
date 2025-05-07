@@ -1,1 +1,2 @@
-** Implementation of NeRF-MPPI 
+** Implementation of NeRF-MPPI **
+===================================
