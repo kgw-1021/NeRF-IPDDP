@@ -1,2 +1,2 @@
-** NeRF-MPPI Trajectory Optimization Framework**
+** NeRF-IPDDP Trajectory Optimization **
 ====================================================
